@@ -1,0 +1,103 @@
+# Command arguments: 58 12 66 44 85 13 42 12 1 51 73 24 95 77 40 38 53 90 80 32 50 38 88 34 38 38 3 81 78 74 64 6 86 85 98 6 3 35 24 92 12 17 1 61 19 13 34 57 41 89 78 24 65 23 35 20 29 86 29 73 26 30 1 44 53 11 40 71 47 32 3 20 56 2 76 89 41 78 85 50 16 57 28 81 48 85 12 61 77 86 58 40 74 42 24 64 98 11 78 37 
+# Solution:
+Welcome to the Personal Space Show!!
+58: Number not recognized
+12: Number not recognized
+66: Number not recognized
+44: Number not recognized
+85: Number not recognized
+13: Number not recognized
+42: Number not recognized
+12: Number not recognized
+One: Personal space
+51: Number not recognized
+73: Number not recognized
+24: Number not recognized
+95: Number not recognized
+77: Number not recognized
+40: Number not recognized
+38: Number not recognized
+53: Number not recognized
+90: Number not recognized
+80: Number not recognized
+32: Number not recognized
+50: Number not recognized
+38: Number not recognized
+88: Number not recognized
+34: Number not recognized
+38: Number not recognized
+38: Number not recognized
+Three: Stay out of my personal space
+81: Number not recognized
+78: Number not recognized
+74: Number not recognized
+64: Number not recognized
+Six: Stay away from my personal space
+86: Number not recognized
+85: Number not recognized
+98: Number not recognized
+Six: Stay away from my personal space
+Three: Stay out of my personal space
+35: Number not recognized
+24: Number not recognized
+92: Number not recognized
+12: Number not recognized
+17: Number not recognized
+One: Personal space
+61: Number not recognized
+19: Number not recognized
+13: Number not recognized
+34: Number not recognized
+57: Number not recognized
+41: Number not recognized
+89: Number not recognized
+78: Number not recognized
+24: Number not recognized
+65: Number not recognized
+23: Number not recognized
+35: Number not recognized
+20: Number not recognized
+29: Number not recognized
+86: Number not recognized
+29: Number not recognized
+73: Number not recognized
+26: Number not recognized
+30: Number not recognized
+One: Personal space
+44: Number not recognized
+53: Number not recognized
+11: Number not recognized
+40: Number not recognized
+71: Number not recognized
+47: Number not recognized
+32: Number not recognized
+Three: Stay out of my personal space
+20: Number not recognized
+56: Number not recognized
+Two: Personal space
+76: Number not recognized
+89: Number not recognized
+41: Number not recognized
+78: Number not recognized
+85: Number not recognized
+50: Number not recognized
+16: Number not recognized
+57: Number not recognized
+28: Number not recognized
+81: Number not recognized
+48: Number not recognized
+85: Number not recognized
+12: Number not recognized
+61: Number not recognized
+77: Number not recognized
+86: Number not recognized
+58: Number not recognized
+40: Number not recognized
+74: Number not recognized
+42: Number not recognized
+24: Number not recognized
+64: Number not recognized
+98: Number not recognized
+11: Number not recognized
+78: Number not recognized
+37: Number not recognized

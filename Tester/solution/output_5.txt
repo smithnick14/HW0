@@ -1,0 +1,4 @@
+# Command arguments: 6
+# Solution:
+Welcome to the Personal Space Show!!
+Six: Stay away from my personal space

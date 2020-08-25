@@ -1,0 +1,4 @@
+# Command arguments: 100
+# Solution:
+Welcome to the Personal Space Show!!
+100: Number not recognized

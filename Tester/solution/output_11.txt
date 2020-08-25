@@ -1,0 +1,12 @@
+# Command arguments: 4 5 1 6 2 9 3 8 7 
+# Solution:
+Welcome to the Personal Space Show!!
+Four: Keep away from my personal space
+Five: Get outta dat personal space
+One: Personal space
+Six: Stay away from my personal space
+Two: Personal space
+Nine: Personal space
+Three: Stay out of my personal space
+Eight: Personal space
+Seven: Keep away from dat personal space

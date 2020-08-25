@@ -1,0 +1,30 @@
+# Command arguments: 1 1 1 2 2 2 3 3 3 4 4 4 5 5 5 6 6 6 7 7 7 8 8 8 9 9 9 
+# Solution:
+Welcome to the Personal Space Show!!
+One: Personal space
+One: Personal space
+One: Personal space
+Two: Personal space
+Two: Personal space
+Two: Personal space
+Three: Stay out of my personal space
+Three: Stay out of my personal space
+Three: Stay out of my personal space
+Four: Keep away from my personal space
+Four: Keep away from my personal space
+Four: Keep away from my personal space
+Five: Get outta dat personal space
+Five: Get outta dat personal space
+Five: Get outta dat personal space
+Six: Stay away from my personal space
+Six: Stay away from my personal space
+Six: Stay away from my personal space
+Seven: Keep away from dat personal space
+Seven: Keep away from dat personal space
+Seven: Keep away from dat personal space
+Eight: Personal space
+Eight: Personal space
+Eight: Personal space
+Nine: Personal space
+Nine: Personal space
+Nine: Personal space

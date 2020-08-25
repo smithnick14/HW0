@@ -1,0 +1,103 @@
+# Command arguments: 5 2 2 1 4 3 7 7 2 2 5 2 3 6 1 4 2 7 2 2 4 3 6 4 2 1 8 2 5 2 7 7 5 8 5 5 2 1 1 6 8 4 1 2 5 1 1 2 4 8 3 1 4 4 5 8 1 8 3 2 3 3 1 5 6 3 6 5 2 3 6 4 2 7 3 4 4 5 6 6 3 4 5 6 8 8 2 4 2 4 3 4 1 6 5 3 1 2 4 6 
+# Solution:
+Welcome to the Personal Space Show!!
+Five: Get outta dat personal space
+Two: Personal space
+Two: Personal space
+One: Personal space
+Four: Keep away from my personal space
+Three: Stay out of my personal space
+Seven: Keep away from dat personal space
+Seven: Keep away from dat personal space
+Two: Personal space
+Two: Personal space
+Five: Get outta dat personal space
+Two: Personal space
+Three: Stay out of my personal space
+Six: Stay away from my personal space
+One: Personal space
+Four: Keep away from my personal space
+Two: Personal space
+Seven: Keep away from dat personal space
+Two: Personal space
+Two: Personal space
+Four: Keep away from my personal space
+Three: Stay out of my personal space
+Six: Stay away from my personal space
+Four: Keep away from my personal space
+Two: Personal space
+One: Personal space
+Eight: Personal space
+Two: Personal space
+Five: Get outta dat personal space
+Two: Personal space
+Seven: Keep away from dat personal space
+Seven: Keep away from dat personal space
+Five: Get outta dat personal space
+Eight: Personal space
+Five: Get outta dat personal space
+Five: Get outta dat personal space
+Two: Personal space
+One: Personal space
+One: Personal space
+Six: Stay away from my personal space
+Eight: Personal space
+Four: Keep away from my personal space
+One: Personal space
+Two: Personal space
+Five: Get outta dat personal space
+One: Personal space
+One: Personal space
+Two: Personal space
+Four: Keep away from my personal space
+Eight: Personal space
+Three: Stay out of my personal space
+One: Personal space
+Four: Keep away from my personal space
+Four: Keep away from my personal space
+Five: Get outta dat personal space
+Eight: Personal space
+One: Personal space
+Eight: Personal space
+Three: Stay out of my personal space
+Two: Personal space
+Three: Stay out of my personal space
+Three: Stay out of my personal space
+One: Personal space
+Five: Get outta dat personal space
+Six: Stay away from my personal space
+Three: Stay out of my personal space
+Six: Stay away from my personal space
+Five: Get outta dat personal space
+Two: Personal space
+Three: Stay out of my personal space
+Six: Stay away from my personal space
+Four: Keep away from my personal space
+Two: Personal space
+Seven: Keep away from dat personal space
+Three: Stay out of my personal space
+Four: Keep away from my personal space
+Four: Keep away from my personal space
+Five: Get outta dat personal space
+Six: Stay away from my personal space
+Six: Stay away from my personal space
+Three: Stay out of my personal space
+Four: Keep away from my personal space
+Five: Get outta dat personal space
+Six: Stay away from my personal space
+Eight: Personal space
+Eight: Personal space
+Two: Personal space
+Four: Keep away from my personal space
+Two: Personal space
+Four: Keep away from my personal space
+Three: Stay out of my personal space
+Four: Keep away from my personal space
+One: Personal space
+Six: Stay away from my personal space
+Five: Get outta dat personal space
+Three: Stay out of my personal space
+One: Personal space
+Two: Personal space
+Four: Keep away from my personal space
+Six: Stay away from my personal space

@@ -1,0 +1,4 @@
+# Command arguments: 7
+# Solution:
+Welcome to the Personal Space Show!!
+Seven: Keep away from dat personal space
