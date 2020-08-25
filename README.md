@@ -1,9 +1,10 @@
 # ECE 275 Homework 0: The Personal Space Show!!
 
 Welcome to ECE 275 and the Personal Space Show!!
-<p align="center">
+
+
 [![The Personal Space Show](https://img.youtube.com/vi/szjdoVR5EKs/0.jpg)](https://www.youtube.com/watch?v=szjdoVR5EKs)
-</p>
+
 
 > One: Personal Space
 > 
