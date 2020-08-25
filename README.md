@@ -36,6 +36,7 @@ You are to write a program to the following specifications:
 3. Your program *shall* print "N: Number not recognized" where N is some integer outside of [1, 9]. E.g., if the command line argument is "101", print "101: Number not recognized". 
 
 You will be given the following code as a template:
+
 '''c
 /* Personal Space Show from Rick and Morty:
  *
