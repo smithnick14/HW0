@@ -1,8 +1,9 @@
 import ProgramTester as PT
-import pytest
+import pytest, os
 
 # Build the program once before entering pytest
 def pytest_configure():
+    os.chdir("Tester")
     # Create a ProgramTester object
     pt = PT.ProgramTester("PersonalSpace")
     # Build the user's program 
